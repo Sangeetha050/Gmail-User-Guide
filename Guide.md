@@ -34,7 +34,7 @@ Gmail is a free and powerful email service provided by Google. It offers:
   ### Layout Overview
 
   | Section| Description |
-  | :------- | :----------- |
+  | :-------: | :-----------: |
   | **Inbox** | Your received emails |
   | **Starred** | Important emails you marked |
   | **Sent** | Emails you've sent |
@@ -67,5 +67,21 @@ Gmail is a free and powerful email service provided by Google. It offers:
   * **Reply**: Respond only to the sender
   * **Reply all**: Respond to all recipients
   * **Forward**: Send the received email to someone else
-     
+
+## Useful Features
+
+| Feature   | symbol | purpose                                |
+|:-------   | :----- | :----                                  |
+| Search Bar| 🔍    | Find emails by keyword, sender, or date|
+| Settings | ⚙️    | Change theme, signature, notifications |
+| Attachments | 📎 | Add files or photos to emails |
+| Google Apps | 📅 | Access Calendar, Drive, Meet, and more |
+
+## Security Tips
+
+* Enable 2-Step Verification
+* Use a strong password
+* Avoid clicking suspicious links
+* Regularly check account activity
+ 
      
