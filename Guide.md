@@ -71,7 +71,7 @@ Gmail is a free and powerful email service provided by Google. It offers:
 ## Useful Features
 
 | Feature   | symbol | purpose                                |
-|:-------   | :----- | :----                                  |
+|:-------   | :-----: | :----                                  |
 | Search Bar| 🔍    | Find emails by keyword, sender, or date|
 | Settings | ⚙️    | Change theme, signature, notifications |
 | Attachments | 📎 | Add files or photos to emails |
