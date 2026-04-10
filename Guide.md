@@ -14,27 +14,27 @@ Gmail is a free and powerful email service provided by Google. It offers:
 
   1. Go to [Gmail](www.gmail.com).
   2. Click **Create account**.
-  3. Choose **For myself** or **For work/busines**.
+  3. Choose **For myself** or **For work/business**.
   4. Fill in:
      * First and last name
      * Desired email address(Ex:XYZ@gmail.com)
      * Password
-  1. Click **Next**, then verify your phone number.
-  2. Add recovery email (optional), date of birth, and gender.
-  3. Accept the terms and conditions.
+  5.  Click **Next**, then verify your phone number.
+  6.  Add recovery email (optional), date of birth, and gender.
+  7.  Accept the terms and conditions.
 
   ### Sign In to Gmail
 
-  1. Go to [Gmail](www.gmail.com).
-  2. Enter your email address and click **Next**
-  3. Enter your password and click **Next**
+  1. Go to [Gmail](http://www.gmail.com).
+  2. Enter your email address and click **Next**.
+  3. Enter your password and click **Next**.
 
 ## Understanding the Gmail Interface
 
   ### Layout Overview
 
   | Section| Description |
-  | :-------: | :-----------: |
+  | :-------: | :----------- |
   | **Inbox** | Your received emails |
   | **Starred** | Important emails you marked |
   | **Sent** | Emails you've sent |
@@ -50,8 +50,8 @@ Gmail is a free and powerful email service provided by Google. It offers:
   * **Google Apps (Grid Icon)** – Access Calendar, Drive, Meet, etc.
   *  **Profile Icon** – Manage your account or switch users
 
-## How to send\Replay Email 
-  ### Composing a Email or Send a Email
+## How to Send/Reply to an Email 
+  ### Composing an Email or Send an Email
   
   1. Click **Compose** in the top-left
   2. Fill in:
